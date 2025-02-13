@@ -1,4 +1,5 @@
 RestTemplate实现nacos的服务发现与服务调用
+
 1.引入loadbalancer maven包
 2.配置RestTemplateConfig包 实现nacos的服务发现与负载均衡
 3.api调用

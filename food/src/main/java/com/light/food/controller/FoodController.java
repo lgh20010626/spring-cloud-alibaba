@@ -24,7 +24,7 @@ public class FoodController {
 
     @GetMapping("/hello")
     public String hello() {
-        return "hello account";
+        return "hello food";
     }
 
 }
